@@ -1,16 +1,28 @@
 ## Hi there 👋
 
-<!--
-**cherman9966-dev/cherman9966-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Iliya, i am a FLutter developer👨🏼‍💻
+
+My main stack: Flutter & Dart.
+
+Technical skills: Working with REST API, Firebase, Isar, Hive/SQLite.
+
+State Management: Experience with Provider, Riverpod, BLoC (choice depending on the scale of the task).
+
+Using popular libraries: Dio, GetIt, Freezed, AutoRoute.
+
+Experience with Git/GitHub, clean architecture.
+
+Tools: mainly development on macOS, IntelliJ IDEA, VS Code.
+
+Soft Skills: Experience passing technical interviews, business result orientation, high learning ability (learning new languages ​​and technologies).
+
+Currently I am actively studying mobile cross-platform development and writing my own project. 👨🏼‍🎓
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+------------------------------------------------------------------------------------------------------------------------------->
+- 🔭 I’m currently working on personal project about a program that helps set and achieve goals - "GoalStack"
+- 🌱 I’m currently learning new technologies in the world of mobile development.
+- 👯 I am currently actively looking for a permanent job.
+- 💬 If you have any suggestions for me, I'd be happy to hear them.
+- ⚡ Fun fact: I have 3 cats and 1 dog,
+------------------------------------------------------------------------------------------------------------------------------->
